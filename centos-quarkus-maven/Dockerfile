@@ -1,4 +1,4 @@
-t###
+###
 # Image providing GraalVM and Maven
 ###
 FROM centos:7
